@@ -1,0 +1,99 @@
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+e:\users\2nir2\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\WebApplication1.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+e:\Users\2nir2\Documents\GitHub\asite\My-Site\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Users\2nir2\Documents\My-Site\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
