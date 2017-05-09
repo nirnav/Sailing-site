@@ -15,12 +15,13 @@ namespace WebApplication1
         {
             if (Session["UserId"] == null)
                 Response.Redirect("Front.aspx");
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|SiteDB.mdf;Integrated Security=True;Connect Timeout=30";
-            SqlConnection connection = new SqlConnection(connectionString); ;
-            connection.Open();
-            SqlCommand command = connection.CreateCommand();
             if (Request.HttpMethod == "POST")
             {
+                string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|SiteDB.mdf;Integrated Security=True;Connect Timeout=30";
+                SqlConnection connection = new SqlConnection(connectionString); ;
+                connection.Open();
+                SqlCommand command = connection.CreateCommand();
+
                 string eventID = Request.Form["EId"];
                 command.CommandText = String.Format("SELECT * FROM Users WHERE Id={0} AND IsAdmin=1;", Session["UserId"]);
                 SqlDataReader reader = command.ExecuteReader();
@@ -34,7 +35,7 @@ namespace WebApplication1
                 {
                     try
                     {
-                        command.CommandText = String.Format("DELETE FROM SEvents WHERE Id={0}; DROP TABLE Event{0}", Request.Form["EId"]);
+                        command.CommandText = String.Format("DELETE FROM SEvents WHERE Id={0}; DROP TABLE Event{0};", eventID);
                         command.ExecuteNonQuery();
                         message = "Entry deleted.";
                     }

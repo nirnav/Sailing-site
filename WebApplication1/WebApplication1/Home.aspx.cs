@@ -45,27 +45,32 @@ namespace WebApplication1
                     table = table + template;
                     i++;
                 }
+                reader.Close();
                 if(Request.HttpMethod == "POST")
                 {
                     string a;
                     for (int j = 1; j <= i; j++)
                     {
-                        try
-                        {
+                        //try
+                        //{
                             a = Request.Form[j.ToString()];
-                            command.CommandText = string.Format("INSERT INTO Event{0} (SailNumber, Name, CID) VALUES ({1}, {2}, {3});", Request.Form["sailn"], Session["Name"], Session["UserId"]);
-                            if (success == null)
-                                success = string.Format("Signed up successfully to event {0}", j);
-                            else
-                                success = success + string.Format(" ,", j);
-                        }
-                        catch
+                            if (a != null)
+                            {
+                                command.CommandText = string.Format("INSERT INTO Event{0} (SailNumber, Name, CID) VALUES ('{1}', '{2}', '{3}');", a, Request.Form["sailn"], Session["Name"], Session["UserId"]);
+                            command.ExecuteNonQuery();
+                                if (success == null)
+                                    success = string.Format("Signed up successfully to event {0}", a);
+                                else
+                                    success = success + string.Format(" ,", a);
+                            }
+                        //}
+                        /*catch
                         {
                             if (fail == null)
                                 fail = string.Format("Your sail number is taken or you are already signed up to event {0}", j);
                             else
                                 fail = string.Format(" ,{0}", j);
-                        }
+                        }*/
                     }
                 }
                 connection.Close();

@@ -101,7 +101,7 @@
     <Content Include="deleted.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="Leave Event.aspx" />
-    <Content Include="List Participatns.aspx" />
+    <Content Include="List Participants.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -176,12 +176,12 @@
     <Compile Include="Leave Event.aspx.designer.cs">
       <DependentUpon>Leave Event.aspx</DependentUpon>
     </Compile>
-    <Compile Include="List Participatns.aspx.cs">
-      <DependentUpon>List Participatns.aspx</DependentUpon>
+    <Compile Include="List Participants.aspx.cs">
+      <DependentUpon>List Participants.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="List Participatns.aspx.designer.cs">
-      <DependentUpon>List Participatns.aspx</DependentUpon>
+    <Compile Include="List Participants.aspx.designer.cs">
+      <DependentUpon>List Participants.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Remove User.aspx.cs">

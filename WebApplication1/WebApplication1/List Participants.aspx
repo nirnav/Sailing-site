@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="List Participatns.aspx.cs" Inherits="WebApplication1.List_Events" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="List Participants.aspx.cs" Inherits="WebApplication1.List_Events" %>
 
 <!DOCTYPE html>
 
@@ -10,7 +10,7 @@
     <a href = "Home.aspx"><u>Home Page</u></a>
     <form id="form1" runat="server">
     <div>
-    <input type="text" name="Eid" placeholder="Event ID" />
+    <input type="text" name="EId" placeholder="Event ID" />
     </div>
         <div><input type="submit" value="List" /></div>
     </form>
