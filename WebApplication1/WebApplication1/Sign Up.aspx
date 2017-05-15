@@ -52,7 +52,7 @@
     </script>
 </head>
 <body>
-<a href="Front.aspx">Fron Page</a>
+<a href="Front.aspx">Front Page</a>
 <h3>Sign Up Page</h3>
 <h5><%=message%></h5>
     <form id="signup" runat="server" onsubmit="return validateForm()" method="post">

@@ -20,20 +20,26 @@ namespace WebApplication1
             connection.Open();
             SqlCommand command = connection.CreateCommand();
 
-            string UserID = Request.Form["UId"];
-            string eventID = Request.Form["EId"];
-            command.CommandText = String.Format("SELECT * FROM Users WHERE Id={0} AND IsAdmin=1;", Session["UserId"]);
-            SqlDataReader reader = command.ExecuteReader();
-            if (!reader.Read())
-            {
-                reader.Close();
-                connection.Close();
-                Response.Redirect("home.aspx");
-            }
+
             if (Request.HttpMethod == "POST")
-            { 
-                command.CommandText = String.Format("DELETE FROM Event{0} WHERE CID={1};",eventID, UserID);
-                reader = command.ExecuteReader();
+            {
+                string UserID = Request.Form["UId"];
+                string eventID = Request.Form["EId"];
+                command.CommandText = String.Format("SELECT * FROM Users WHERE Id={0} AND IsAdmin=1;", Session["UserId"]);
+                SqlDataReader reader = command.ExecuteReader();
+                if (!reader.Read())
+                {
+                    reader.Close();
+                    command.CommandText = String.Format("SELECT * FROM SEvents WHERE OrganizerId={0} AND Id={1};", Session["UserId"], eventID);
+                    reader = command.ExecuteReader();
+                    if (!reader.Read())
+                    {
+                        reader.Close();
+                        connection.Close();
+                        Response.Redirect("Failed.aspx");
+                    }
+                }
+                command.CommandText = String.Format("DELETE FROM Event{0} WHERE CID={1};", eventID, UserID);
                 try
                 {
                     command.ExecuteNonQuery();

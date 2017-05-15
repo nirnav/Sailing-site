@@ -95,10 +95,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Confirm.aspx" />
-    <Content Include="Delete Account.aspx" />
     <Content Include="Delete Event.aspx" />
     <Content Include="Delete User.aspx" />
     <Content Include="deleted.aspx" />
+    <Content Include="Failed.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="Leave Event.aspx" />
     <Content Include="List Participants.aspx" />
@@ -113,7 +113,6 @@
     <Content Include="Personal Zone.aspx" />
     <Content Include="Front.aspx" />
     <Content Include="For Admin.aspx" />
-    <Content Include="WebForm8.aspx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -133,13 +132,6 @@
     </Compile>
     <Compile Include="Confirm.aspx.designer.cs">
       <DependentUpon>Confirm.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Delete Account.aspx.cs">
-      <DependentUpon>Delete Account.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Delete Account.aspx.designer.cs">
-      <DependentUpon>Delete Account.aspx</DependentUpon>
     </Compile>
     <Compile Include="Delete Event.aspx.cs">
       <DependentUpon>Delete Event.aspx</DependentUpon>
@@ -161,6 +153,13 @@
     </Compile>
     <Compile Include="deleted.aspx.designer.cs">
       <DependentUpon>deleted.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Failed.aspx.cs">
+      <DependentUpon>Failed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Failed.aspx.designer.cs">
+      <DependentUpon>Failed.aspx</DependentUpon>
     </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
@@ -239,13 +238,6 @@
     </Compile>
     <Compile Include="For Admin.aspx.designer.cs">
       <DependentUpon>For Admin.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm8.aspx.cs">
-      <DependentUpon>WebForm8.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm8.aspx.designer.cs">
-      <DependentUpon>WebForm8.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <PropertyGroup>

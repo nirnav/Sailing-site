@@ -10,7 +10,7 @@
     <a href = "Home.aspx"><u>Home Page </u></a><br />
     <a href = "Delete Event.aspx"><u>Delete Event </u></a><br />
     <a href = "Delete User.aspx"><u>Delete User </u></a><br />
-    <a href = "Remove User.aspx"><u>Remove user from event </u></a><br />
+    <a href = "Remove User.aspx"><u>Remove a user from an event </u></a><br />
     <form id="form1" runat="server">
     <div>
     

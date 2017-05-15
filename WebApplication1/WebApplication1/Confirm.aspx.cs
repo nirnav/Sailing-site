@@ -19,7 +19,7 @@ namespace WebApplication1
             SqlConnection connection = new SqlConnection(connectionString); ;
             connection.Open();
             SqlCommand command = connection.CreateCommand();
-            command.CommandText = String.Format("SELECT * FROM Users WHERE Id='{0}' AND Password='{1}'", Session["UserId"], Request.Form["pass"]);
+            command.CommandText = String.Format("SELECT * FROM Users WHERE Id='{0}' AND Password='{1}';", Session["UserId"], Request.Form["pass"]);
             SqlDataReader reader = command.ExecuteReader();
             if (reader.Read())
             {

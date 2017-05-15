@@ -46,7 +46,7 @@ namespace WebApplication1
                 {
                     try
                     {
-                        command.CommandText = String.Format("DELETE FROM Users WHERE Username={0};", Request.Form["UserN"]);
+                        command.CommandText = String.Format("DELETE FROM Users WHERE Username='{0}';", Request.Form["UserN"]);
                         command.ExecuteNonQuery();
                         message = "Entry deleted.";
                     }
@@ -55,7 +55,7 @@ namespace WebApplication1
                         message = "This Username does not exist in the database";
                     }
                 }
-                else
+                else if (Request.Form["UserN"] == null)
                     message = "Please enter an ID or a username";
                 connection.Close();
             }

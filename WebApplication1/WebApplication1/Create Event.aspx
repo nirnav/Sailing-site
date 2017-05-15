@@ -17,19 +17,19 @@
          var sclass = form["Sclass"].value;
          var check = true;
         
-         if ((username.length < 5) || (username.length > 50)) {
+         if ((name.length < 5) || (name.length > 50)) {
              alert("Your event's name should be between 5 and 50 characters long");
              check = false;
          }
-         if (loc == null) {
+         if (loc == "") {
              alert("Enter a location for your event");
              check = false;
          }
-         if (date == null) {
+         if (date == "") {
              alert("Enter a date for your event");
              check = false;
          }
-         if (desc == null) {
+         if (desc == "") {
              alert("Enter a description for your event");
              check = false;
          }

@@ -19,7 +19,7 @@
                  alert("Your username should be between 6 and 24 characters long");
                  check = false;
              }
-             if (password == null) {
+             if (password == "") {
                  alert("Enter your current password to confirm any changes");
                  check = false;
              }
@@ -45,10 +45,10 @@
     <a href = "Home.aspx"><u>Home Page</u></a><br />
     <a href = "Create Event.aspx"><u>Create Event </u></a><br />
     <a href = "Delete Event.aspx"><u>Delete Event </u></a><br />
-    <a href = "Delete Account.aspx"><u>Delete Account </u></a><br />
+    <a href = "Confirm.aspx"><u>Delete Account </u></a><br />
     <a href = "List Participants.aspx"><u>List Participants </u></a><br />
     <a href = "Leave Event.aspx"><u>Leave Event </u></a><br />
-    
+    <a href = "Remove User.aspx"><u>Remove a user from your event </u></a><br />
     <%=admin %>
     <h3>Enter any details you would like to change</h3>
     <form id="signup" runat="server" onsubmit="return validateForm()" method="post">

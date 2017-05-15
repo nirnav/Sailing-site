@@ -8,6 +8,7 @@
 </head>
 <body>
     <h3>Enter your password to delete your account</h3>
+    <a href = "Home.aspx"><u>Home Page</u></a><br />
     <%=message %>
     <form id="form1" runat="server">
     <div>

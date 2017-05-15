@@ -7,6 +7,7 @@
     <title>Front Page</title>
 </head>
 <body>
+    <h2<>Welcome to Saily</h2>
     <a href = "Sign Up.aspx"><u>Sign Up </u></a><br />
     <a href = "Sign In.aspx"><u>Sign In </u></a><br />
     You are visitor number <%=Application["Counter"]%>!

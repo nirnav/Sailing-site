@@ -9,6 +9,7 @@
 <body>
     <a href = "Home.aspx"><u>Home Page</u></a>
     <h3>Leave Event</h3>
+    <%=message %>
     <form id="form1" runat="server">
     <div>
     <input type="number" name="EId" placeholder="Event ID" />
